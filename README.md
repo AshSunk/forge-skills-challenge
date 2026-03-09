@@ -2,6 +2,8 @@
 
 This repository contains the coding challenges and written deliverables for the Forge Software Engineering application.
 
+[View the Part 1 Coding Challenges Here](challenges.js)
+
 ## Part 1: Relational Database Design
 
 ### Overall Design Goal
