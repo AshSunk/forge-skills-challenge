@@ -4,8 +4,6 @@ This repository contains the coding challenges and written deliverables for the 
 
 [View the Part 1 Coding Challenges Here](challenges.js)
 
-[Run the Part 1 Coding Challenges Here](testrun.js)
-
 ---
 
 ## Relational Database Design
