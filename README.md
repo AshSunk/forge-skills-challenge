@@ -26,7 +26,7 @@ This repository contains the coding challenges and written deliverables for the 
 
 ---
 
-## Part 1 Questions
+## Group B Part 1: Questions
 
 **1. Resources Used**
 [cite_start]I primarily utilized the MDN Web Docs (Mozilla Developer Network) to learn JavaScript syntax, specifically methods like unshift(), splice(), and sort()[cite: 577]. [cite_start]I also used the ES6 Coding Style page on GitHub in order to make sure I was writing in the correct format[cite: 578]. [cite_start]I used Gemini to come up with the plaindrome edge case with punctuation: "A man, a plan, a canal: Panama" I did this because I couldn't come up with any good, long palindromes that also included punctuation. Additionally, I used Stack Overflow to learn about the regex `/[^a-z0-9]/g` and how it can be used to identify anything that isn't a number or letter.
@@ -40,7 +40,7 @@ This repository contains the coding challenges and written deliverables for the 
 
 ---
 
-## Part 2 Essays
+## Group B Part 2: Essays
 
 **What's something we wouldn't know about you just by looking at your resume?**
 [cite_start]I love video games, but I've always treated them as more than just entertainment; to me, they're essentially logic puzzles[cite: 601]. [cite_start]In Civilization VI, I once challenged myself to win a science victory, which means winning the in-game space race, by intentionally keeping my empire small[cite: 602]. [cite_start]It forced me to obsess over resource efficiency and plan dozens of turns ahead, and by the end, I successfully conquered Mars[cite: 603]. [cite_start]I get a similar feeling in Minecraft, where I build automated farms using Redstone[cite: 604]. It's basically visual coding; [cite_start]I have to design a system, test the circuits, and fix the bugs when things don't work. Even Baldur's Gate 3 taught me about risk management; you have to plan your strategy assuming the dice might roll a 1[cite: 606]. [cite_start]These experiences keep my brain active and train the same analytical muscles I use for software engineering[cite: 606].
