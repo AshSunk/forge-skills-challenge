@@ -20,7 +20,7 @@ This repository contains the coding challenges and written deliverables for the 
 * [cite_start]**Memberships Table:** This table will connect students to clubs[cite: 540]. [cite_start]This table can include additional information, such as the student's position in the club[cite: 540].
 
 ### Database Schema Diagram
-![Relational Database Schema Diagram](database-diagram.png)
+![Relational Database Schema Diagram](database-schema.png)
 
 ---
 
